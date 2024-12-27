@@ -1,0 +1,7 @@
+# API Composition: API Integration, Aggregation & Orchestration
+
+## Apa itu API Integration 
+
+bertujuan untuk memastikan supergraph memberikan akses ke semua data yang dibutuhkan dengan mengintegrasikan berbagai layanan backend
+
+Supergraph menyediakan cara sistematis untuk mengatasi beberapa keluhan yaitu dengan menyediakan semantic layer dan registry untuk domain yang mendasari dan APInya.
